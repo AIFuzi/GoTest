@@ -1,0 +1,6 @@
+package GoTest
+
+fn main()
+{
+
+}
