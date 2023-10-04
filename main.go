@@ -2,5 +2,5 @@ package GoTest
 
 fn main()
 {
-
+	
 }
